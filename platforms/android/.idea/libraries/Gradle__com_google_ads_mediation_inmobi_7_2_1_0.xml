@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ads.mediation:inmobi-7.2.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/inmobi-7.2.1.0.aar/b280fdccc550ebeab9ee12de5e90a33a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/inmobi-7.2.1.0.aar/b280fdccc550ebeab9ee12de5e90a33a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.ads.mediation/inmobi/7.2.1.0/7c309adc454c8bde776329e6413cae60f4a3e1c2/inmobi-7.2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
